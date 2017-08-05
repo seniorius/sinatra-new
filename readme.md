@@ -7,3 +7,5 @@ cd sinatra-new
 bundle
 ruby app.rb
 ```
+
+http://localhost:4567/

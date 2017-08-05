@@ -1,6 +1,10 @@
 Boilerplate Sinatra
 ====
 
+* Minimum boilerplate
+* Slim Templete
+* Auto Reload
+
 ```
 git clone https://github.com/seniorius/sinatra-new
 cd sinatra-new
